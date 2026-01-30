@@ -1,0 +1,9 @@
+.container {
+border: 3px solid goldenrod;
+background-color: moccasin;
+padding: 11px;
+width: 60%;
+margin: auto;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
